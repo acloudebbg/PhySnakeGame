@@ -1,4 +1,5 @@
-# Snake Game !
+# Snake Game!
+# First change
 import pygame, sys, random, time
 
 check_errors = pygame.init()
